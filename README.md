@@ -65,6 +65,9 @@ The project consists of five tasks, each focusing on a different aspect of digit
 Digital Literacy Awareness Quiz:  
 https://docs.google.com/forms/d/e/1FAIpQLScBUIcoBkgiqyBkU6lZeM8AYDTeGV3yyekZDSoCK8VtjaGfOQ/viewform?usp=dialog
 
+## Linkedin profile link
+www.linkedin.com/in/raushan-singh-711512383
+
 ---
 
 ##  Key Learnings
