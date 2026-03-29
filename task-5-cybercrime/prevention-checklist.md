@@ -1,4 +1,4 @@
-# Stay Safe Online – Prevention Checklist (For College Students )
+# Stay Safe Online – Prevention Checklist 
 
 ##  Prevention Tips
 - Use strong, unique passwords for all accounts and enable two-factor authentication (2FA).
