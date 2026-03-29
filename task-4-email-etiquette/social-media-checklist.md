@@ -1,4 +1,4 @@
-# Social Media Responsibility Checklist (For College Students)
+# Social Media Responsibility Checklist 
 
 ##  Do's
 - Think before you post — make sure your content is respectful and appropriate.
