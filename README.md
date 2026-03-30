@@ -19,8 +19,9 @@ The project consists of five tasks, each focusing on a different aspect of digit
 
 ###  Task 1 – Digital Literacy Infographic
 - Created an infographic using Canva
-- Covered topics like digital literacy, useful digital tools for student, safe internet practices.
+- Covered topics like digital literacy, useful degital tools for student, safe internet practices.
 - Added screenshot of design in `task-1-presentation`
+- canva link: https://canva.link/l1npqx1rw3j7ifh
 
 ---
 
@@ -50,7 +51,7 @@ The project consists of five tasks, each focusing on a different aspect of digit
 - Wrote two professional emails:
   - Request for assignment extension
   - Internship inquiry email
-- Created a Social Media Do’s and Don’ts checklist
+- Created a Sociel Media Do’s and Don’ts checklist
 - Files stored in `task-4-email-etiquette`
 
 ---
@@ -82,6 +83,6 @@ www.linkedin.com/in/raushan-singh-711512383
 ---
 
 ##  Conclusion
-This project helped me understand the importance of digital literacy in today’s world. I gained practical experience in using various online platforms and tools, which will be helpful throughout my academic and professional journey.
+This project helped me understand the importence of digital literacy in today’s world. I gained practicel experience in using various online platforms and tools, which will be helpful throughout my academic and profesional journey.
 
 ---
